@@ -1,0 +1,21 @@
+.calc{
+    background-color: cadetblue;
+    height: 500px;
+    width:300px;
+    margin-left: 450px;
+}
+#siz{
+    width: 80%;
+    height: 90px;
+    margin: 24px;
+    pointer-events: none;
+}
+.row{
+    margin-top: 20px;
+    margin-left: 55px;
+    
+}
+.btn{
+    width: 50px;
+    height: 30px;
+}
